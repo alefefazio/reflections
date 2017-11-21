@@ -1,0 +1,7 @@
+#O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Ao criar um novo repositorio o git espera que adicionamos arquivos para serem rastreados, preciso fazer isso para manter controle dos meus arquivos
+
+#Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+Uma você prepara antes de realizar o commit e no repositorio as files ja estao commited.
