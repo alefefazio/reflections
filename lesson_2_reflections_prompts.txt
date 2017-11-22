@@ -5,3 +5,15 @@ Ao criar um novo repositorio o git espera que adicionamos arquivos para serem ra
 #Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
 Uma você prepara antes de realizar o commit e no repositorio as files ja estao commited.
+
+#Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+Posso ir adicionando arquivos que envolvem aquela alteração lógica até ter certeza que tudo foi resolvido.
+
+#Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Os branchs ajudam a criar novas funções ou 
+aplicar ideias sem precisar se preocupar com
+o codigo original, Ex. Posso criar uma versão
+voltada para outro pais sem alterar o conteudo 
+original
