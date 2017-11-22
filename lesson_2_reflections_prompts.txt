@@ -17,3 +17,7 @@ aplicar ideias sem precisar se preocupar com
 o codigo original, Ex. Posso criar uma versão
 voltada para outro pais sem alterar o conteudo 
 original
+
+#Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Os diagramas ajudam a entender em qual commit estou e se estou salvando esses commits dentro de um branch ou eles estao sendo criados como inacessiveis
